@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">Who I Am?<br>Honesty: I always tell the truth and hate lies. Honesty is very important to me, and I always strive to act with integrity.<br><br>Reliability: I am responsible and keep my promises. I do my best to fulfill the promises I make.<br><br>Hardwork: I work hard to achieve my goals. I am not afraid to work hard and overcome challenges to be successful.<br><br>Creativity: I enjoy generating new ideas. I use my imagination to find different solutions and do innovative things.<br><br>Curiosity: I love exploring the world and learning new things. Gaining knowledge and developing myself are important to me.<br><br>Sociability: I enjoy spending time with people and meeting new people. I find it enjoyable to communicate and gain different perspectives.<br><br>Patience: I don't give up in the face of difficulties and work patiently towards my goals. I am aware that success takes time and effort.<br><br>Generosity: I am a helpful and generous person. I try to help those in need financially and morally.<br><br>Leadership: I have a natural leadership ability and can motivate people. I value teamwork and enjoy working together to achieve a common goal.<br><br>In short, I am an honest, reliable, hardworking, creative, curious, social, optimistic, patient, generous, and leader-spirited person.<br><br>I believe that these qualities make me a better person and entrepreneur. I will always continue to develop myself and work for the better.</p>
-
-###
-
 <h2 align="left">Programs I Use</h2>
 
 ###
