@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efelix</h1>
-<h3 align="center">A curious full-stack developer, high school student, 3D and graphic designer, video editor and video editor from Turkey.</h3>
+<h3 align="center">A curious full-stack developer, high school student, 3D and graphic designer, video editor and video editor from Turkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efelixai8&label=Profile%20views&color=0e75b6&style=flat" alt="efelixai8" /> </p>
 
