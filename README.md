@@ -1,31 +1,6 @@
 <h1 align="center">Hi 👋, I'm Efelix</h1>
 <h3 align="center">A curious full-stack developer, high school student, 3D and graphic designer, video editor from Turkiye.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efelixai8&label=Profile%20views&color=0e75b6&style=flat" alt="efelixai8" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efelixai8" alt="efelixai8" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **php**
-
-- 👨‍💻 All of my projects are available at [https://github.com/efelix8](https://github.com/efelix8)
-
-- 📝 I regularly write articles on [https://evrimagaci.org/efelix](https://evrimagaci.org/efelix)
-
-- 💬 Ask me about **Python,HTML,CSS,C++,Arduino,RaspberryPi,Linux,Adobe CC,Blender 4D and JavaScript**
-
-- 📫 How to reach me **efelixai2@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/efelix8](https://github.com/efelix8)
-
-- ⚡ Fun fact **I think I'm fun and have a good sense of humor**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.to/efelix8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/efelix8" height="30" width="40" /></a>
 <a href="https://kaggle.com/efekzltu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="efekzltu" height="30" width="40" /></a>
