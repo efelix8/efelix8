@@ -1,3 +1,7 @@
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yyx990803&theme=radical)
+
+
 # 💫 About Me:
 🎓 I am a software developer with a passion for computer science<br>🔭 I am currently working on artificial intelligence and robotic systems<br>🌱 I am constantly open to learning new technologies
 
@@ -12,8 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=efelix8&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efelix8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yyx990803&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=efelix8&limit=5&theme=dark&combine_all_yearly_contributions=true)
