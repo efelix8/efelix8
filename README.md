@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🎓 I am a software developer with a passion for computer science<br>🔭 I am currently working on artificial intelligence and robotic systems<br>🌱 I am constantly open to learning new technologies
+🎓 I am a software developer with a passion for neuromorphic chips<br>🔭 I am currently working on artificial intelligence and robotic systems<br>🌱 I am constantly open to learning new technologies
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yyx990803&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
